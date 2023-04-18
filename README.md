@@ -19,4 +19,4 @@ Ans: y will print first and then x will print. because dart support asynchronous
 
 ### 3. what is closure ?
 
-Ans: Dart is mainly Asynchronous Supported Programming Language
+Ans: If any function contain another function and when we make an object of first function we can access second function from object. 
